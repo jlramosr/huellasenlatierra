@@ -1,0 +1,1439 @@
+<respuesta>
+	<diaSemana>
+		<dia>Viernes</dia>
+		<dia>Sabado</dia>
+		<dia>Domingo</dia>
+		<dia>Lunes</dia>
+		<dia>Martes</dia>
+</diaSemana>
+	<localidad>
+	<error>no</error>
+		<id>313</id>
+		<nombre>Madrid</nombre>
+		<latitud>40.416691</latitud>
+		<longitud>-3.700346</longitud>
+		<zoom>4</zoom>
+		<provincia>Madrid</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>5</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>4</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>0</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>-1</minima>
+			<maxima>10</maxima>
+			<tiempo>Despejado</tiempo>
+</dia>		<dia>			<minima>-3</minima>
+			<maxima>8</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>26301</id>
+		<nombre>Berlin</nombre>
+		<latitud>52.523403</latitud>
+		<longitud>13.411400</longitud>
+		<zoom>4</zoom>
+		<provincia>Berlin</provincia>
+		<pais>Alemania</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>-7</minima>
+			<maxima>-2</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>-9</minima>
+			<maxima>-4</maxima>
+			<tiempo>Cielos Cubiertos</tiempo>
+</dia>		<dia>			<minima>-10</minima>
+			<maxima>-4</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>-9</minima>
+			<maxima>-2</maxima>
+			<tiempo>Cielos Cubiertos</tiempo>
+</dia>		<dia>			<minima>-11</minima>
+			<maxima>-4</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>5662</id>
+		<nombre>Sevilla</nombre>
+		<latitud>37.382641</latitud>
+		<longitud>-5.996295</longitud>
+		<zoom>5</zoom>
+		<provincia>Sevilla</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>11</minima>
+			<maxima>20</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>8</minima>
+			<maxima>16</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>5</minima>
+			<maxima>16</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>4</minima>
+			<maxima>17</maxima>
+			<tiempo>Intervalos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>15</maxima>
+			<tiempo>Intervalos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>8095</id>
+		<nombre>Zaragoza</nombre>
+		<latitud>41.656288</latitud>
+		<longitud>-0.876538</longitud>
+		<zoom>5</zoom>
+		<provincia>Zaragoza</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>6</minima>
+			<maxima>17</maxima>
+			<tiempo>Cielos cubiertos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>6</minima>
+			<maxima>18</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>4</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>2</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>0</minima>
+			<maxima>9</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>5442</id>
+		<nombre>Oviedo</nombre>
+		<latitud>43.360260</latitud>
+		<longitud>-5.844759</longitud>
+		<zoom>5</zoom>
+		<provincia>Oviedo</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>8</minima>
+			<maxima>14</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>6</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>4</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>4</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>2</minima>
+			<maxima>8</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>5999</id>
+		<nombre>Santa Cruz de Tenerife</nombre>
+		<latitud>28.469810</latitud>
+		<longitud>-16.254860</longitud>
+		<zoom>5</zoom>
+		<provincia>Santa Cruz de Tenerife</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>13</minima>
+			<maxima>21</maxima>
+			<tiempo>Intervalos Nubosos</tiempo>
+</dia>		<dia>			<minima>13</minima>
+			<maxima>21</maxima>
+			<tiempo>Intervalos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>15</minima>
+			<maxima>21</maxima>
+			<tiempo>Intervalos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>14</minima>
+			<maxima>23</maxima>
+			<tiempo>Intervalos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>16</minima>
+			<maxima>21</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>6032</id>
+		<nombre>Santander</nombre>
+		<latitud>43.460960</latitud>
+		<longitud>-3.807934</longitud>
+		<zoom>5</zoom>
+		<provincia>Santander</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>9</minima>
+			<maxima>14</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>7</minima>
+			<maxima>14</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>8</minima>
+			<maxima>12</maxima>
+			<tiempo>Cielos cubiertos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>3</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>6950</id>
+		<nombre>Toledo</nombre>
+		<latitud>39.856781</latitud>
+		<longitud>-4.024476</longitud>
+		<zoom>5</zoom>
+		<provincia>Toledo</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>7</minima>
+			<maxima>15</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>4</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>0</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>0</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>-1</minima>
+			<maxima>9</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>7652</id>
+		<nombre>Valladolid</nombre>
+		<latitud>41.652950</latitud>
+		<longitud>-4.728388</longitud>
+		<zoom>5</zoom>
+		<provincia>Valladolid</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>7</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>-1</minima>
+			<maxima>8</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>-1</minima>
+			<maxima>7</maxima>
+			<tiempo>Intervalos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>-1</minima>
+			<maxima>5</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>1200</id>
+		<nombre>Barcelona</nombre>
+		<latitud>41.387920</latitud>
+		<longitud>2.169919</longitud>
+		<zoom>5</zoom>
+		<provincia>Barcelona</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>5</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>10</minima>
+			<maxima>14</maxima>
+			<tiempo>Cielos nubosos con chubascos tormentosos</tiempo>
+</dia>		<dia>			<minima>2</minima>
+			<maxima>14</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>2</minima>
+			<maxima>15</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>701</id>
+		<nombre>Merida</nombre>
+		<latitud>38.915859</latitud>
+		<longitud>-6.345606</longitud>
+		<zoom>5</zoom>
+		<provincia>Badajoz</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>12</minima>
+			<maxima>16</maxima>
+			<tiempo>Cielos cubiertos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>4</minima>
+			<maxima>15</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>2</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>2</minima>
+			<maxima>13</maxima>
+			<tiempo>Intervalos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>2378</id>
+		<nombre>La Coruna</nombre>
+		<latitud>43.370869</latitud>
+		<longitud>-8.395835</longitud>
+		<zoom>5</zoom>
+		<provincia>La Coru?a</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>9</minima>
+			<maxima>15</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>9</minima>
+			<maxima>12</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>8</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>8</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>7</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>2836</id>
+		<nombre>Santiago de Compostela</nombre>
+		<latitud>42.880451</latitud>
+		<longitud>-8.546304</longitud>
+		<zoom>5</zoom>
+		<provincia>La Coru?a</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>11</minima>
+			<maxima>14</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>5</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>5</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>4</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>4</minima>
+			<maxima>9</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>4217</id>
+		<nombre>Logrono</nombre>
+		<latitud>42.465771</latitud>
+		<longitud>-2.449995</longitud>
+		<zoom>5</zoom>
+		<provincia>Logro?o</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>8</minima>
+			<maxima>18</maxima>
+			<tiempo>Cielos cubiertos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>4</minima>
+			<maxima>17</maxima>
+			<tiempo>Cielos cubiertos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>4</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>0</minima>
+			<maxima>9</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>9</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>4519</id>
+		<nombre>Murcia</nombre>
+		<latitud>37.983440</latitud>
+		<longitud>-1.129890</longitud>
+		<zoom>5</zoom>
+		<provincia>Murcia</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>9</minima>
+			<maxima>23</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>9</minima>
+			<maxima>18</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>7</minima>
+			<maxima>15</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>5</minima>
+			<maxima>17</maxima>
+			<tiempo>Intervalos Nubosos</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>16</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>5360</id>
+		<nombre>Pamplona</nombre>
+		<latitud>42.817211</latitud>
+		<longitud>-1.646767</longitud>
+		<zoom>5</zoom>
+		<provincia>Pamplona</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>3</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>3</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos cubiertos con chubascos tormentosos</tiempo>
+</dia>		<dia>			<minima>2</minima>
+			<maxima>7</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>6</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>0</minima>
+			<maxima>6</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>7309</id>
+		<nombre>Bilbao</nombre>
+		<latitud>43.256962</latitud>
+		<longitud>-2.923441</longitud>
+		<zoom>5</zoom>
+		<provincia>Vizcaya</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>9</minima>
+			<maxima>16</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>7</minima>
+			<maxima>18</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>7</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>2</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>7544</id>
+		<nombre>Valencia</nombre>
+		<latitud>39.470242</latitud>
+		<longitud>-0.376805</longitud>
+		<zoom>5</zoom>
+		<provincia>Valencia</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>11</minima>
+			<maxima>20</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>12</minima>
+			<maxima>19</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>9</minima>
+			<maxima>16</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>5</minima>
+			<maxima>17</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>2</minima>
+			<maxima>14</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>1126</id>
+		<nombre>Palma de Mallorca</nombre>
+		<latitud>39.569511</latitud>
+		<longitud>2.649966</longitud>
+		<zoom>5</zoom>
+		<provincia>Alicante</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>9</minima>
+			<maxima>17</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>11</minima>
+			<maxima>17</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>9</minima>
+			<maxima>14</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>9</minima>
+			<maxima>15</maxima>
+			<tiempo>Intervalos Nubosos</tiempo>
+</dia>		<dia>			<minima>7</minima>
+			<maxima>15</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>106</id>
+		<nombre>Almeria</nombre>
+		<latitud>36.840160</latitud>
+		<longitud>-2.467922</longitud>
+		<zoom>6</zoom>
+		<provincia>Almer?a</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>13</minima>
+			<maxima>21</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>12</minima>
+			<maxima>16</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>10</minima>
+			<maxima>15</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>9</minima>
+			<maxima>18</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>8</minima>
+			<maxima>16</maxima>
+			<tiempo>Intervalos Nubosos</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>2065</id>
+		<nombre>Cadiz</nombre>
+		<latitud>36.529690</latitud>
+		<longitud>-6.292657</longitud>
+		<zoom>6</zoom>
+		<provincia>C?diz</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>14</minima>
+			<maxima>17</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>11</minima>
+			<maxima>17</maxima>
+			<tiempo>Cielos nubosos con chubascos tormentosos</tiempo>
+</dia>		<dia>			<minima>11</minima>
+			<maxima>17</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>11</minima>
+			<maxima>17</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>10</minima>
+			<maxima>15</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>2295</id>
+		<nombre>Cordoba</nombre>
+		<latitud>37.884731</latitud>
+		<longitud>-4.779152</longitud>
+		<zoom>6</zoom>
+		<provincia>C?rdoba</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>10</minima>
+			<maxima>18</maxima>
+			<tiempo>Cielos Cubiertos</tiempo>
+</dia>		<dia>			<minima>6</minima>
+			<maxima>15</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>4</minima>
+			<maxima>14</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>4</minima>
+			<maxima>15</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>13</maxima>
+			<tiempo>Intervalos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>2158</id>
+		<nombre>Granada</nombre>
+		<latitud>37.176491</latitud>
+		<longitud>-3.597929</longitud>
+		<zoom>6</zoom>
+		<provincia>Granada</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>7</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos cubiertos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>2</minima>
+			<maxima>12</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>8</maxima>
+			<tiempo>Cielos cubiertos con nevadas</tiempo>
+</dia>		<dia>			<minima>2</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>7</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>3424</id>
+		<nombre>Huelva</nombre>
+		<latitud>37.257099</latitud>
+		<longitud>-6.949555</longitud>
+		<zoom>6</zoom>
+		<provincia>Huelva</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>13</minima>
+			<maxima>18</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>9</minima>
+			<maxima>17</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>7</minima>
+			<maxima>16</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>6</minima>
+			<maxima>16</maxima>
+			<tiempo>Intervalos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>5</minima>
+			<maxima>15</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>3593</id>
+		<nombre>Jaen</nombre>
+		<latitud>37.765739</latitud>
+		<longitud>-3.789518</longitud>
+		<zoom>6</zoom>
+		<provincia>Ja?n</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>9</minima>
+			<maxima>14</maxima>
+			<tiempo>Cielos cubiertos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>3</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos cubiertos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>12</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>9</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>4279</id>
+		<nombre>Malaga</nombre>
+		<latitud>36.719650</latitud>
+		<longitud>-4.420019</longitud>
+		<zoom>6</zoom>
+		<provincia>M?laga</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>11</minima>
+			<maxima>22</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>9</minima>
+			<maxima>17</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>7</minima>
+			<maxima>15</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>7</minima>
+			<maxima>17</maxima>
+			<tiempo>Intervalos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>3</minima>
+			<maxima>17</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>3829</id>
+		<nombre>Huesca</nombre>
+		<latitud>42.140099</latitud>
+		<longitud>-0.408898</longitud>
+		<zoom>6</zoom>
+		<provincia>Huesca</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>3</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>3</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos cubiertos con chubascos tormentosos</tiempo>
+</dia>		<dia>			<minima>0</minima>
+			<maxima>8</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>0</minima>
+			<maxima>9</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>-2</minima>
+			<maxima>7</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>6738</id>
+		<nombre>Teruel</nombre>
+		<latitud>40.344109</latitud>
+		<longitud>-1.106910</longitud>
+		<zoom>6</zoom>
+		<provincia>Teruel</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>4</minima>
+			<maxima>15</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>		<dia>			<minima>0</minima>
+			<maxima>6</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>		<dia>			<minima>-3</minima>
+			<maxima>7</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>-5</minima>
+			<maxima>6</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>5211</id>
+		<nombre>Las Palmas de Gran Canaria</nombre>
+		<latitud>28.124821</latitud>
+		<longitud>-15.430010</longitud>
+		<zoom>6</zoom>
+		<provincia>Las Palmas</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>15</minima>
+			<maxima>20</maxima>
+			<tiempo>Intervalos Nubosos</tiempo>
+</dia>		<dia>			<minima>14</minima>
+			<maxima>21</maxima>
+			<tiempo>Intervalos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>16</minima>
+			<maxima>20</maxima>
+			<tiempo>Intervalos Nubosos</tiempo>
+</dia>		<dia>			<minima>16</minima>
+			<maxima>21</maxima>
+			<tiempo>Intervalos Nubosos</tiempo>
+</dia>		<dia>			<minima>16</minima>
+			<maxima>20</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>209</id>
+		<nombre>Albacete</nombre>
+		<latitud>38.997650</latitud>
+		<longitud>-1.860070</longitud>
+		<zoom>6</zoom>
+		<provincia>Albacete</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>6</minima>
+			<maxima>15</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>3</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos cubiertos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>9</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>0</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>-2</minima>
+			<maxima>8</maxima>
+			<tiempo>Intervalos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>1748</id>
+		<nombre>Ciudad Real</nombre>
+		<latitud>38.986099</latitud>
+		<longitud>-3.927263</longitud>
+		<zoom>6</zoom>
+		<provincia>Ciudad Real</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>8</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos Cubiertos</tiempo>
+</dia>		<dia>			<minima>2</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>-1</minima>
+			<maxima>9</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>0</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>-2</minima>
+			<maxima>7</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>2940</id>
+		<nombre>Cuenca</nombre>
+		<latitud>40.071831</latitud>
+		<longitud>-2.134005</longitud>
+		<zoom>6</zoom>
+		<provincia>Cuenca</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>4</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos cubiertos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>0</minima>
+			<maxima>9</maxima>
+			<tiempo>Cielos cubiertos con nevadas</tiempo>
+</dia>		<dia>			<minima>-1</minima>
+			<maxima>5</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>		<dia>			<minima>-3</minima>
+			<maxima>7</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>-3</minima>
+			<maxima>4</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>2675</id>
+		<nombre>Guadalajara</nombre>
+		<latitud>40.629810</latitud>
+		<longitud>-3.166493</longitud>
+		<zoom>6</zoom>
+		<provincia>Guadalajara</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>5</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos cubiertos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>3</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>0</minima>
+			<maxima>9</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>-1</minima>
+			<maxima>9</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>-2</minima>
+			<maxima>7</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>873</id>
+		<nombre>Avila</nombre>
+		<latitud>40.656422</latitud>
+		<longitud>-4.700323</longitud>
+		<zoom>6</zoom>
+		<provincia>?vila</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>6</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos cubiertos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>-2</minima>
+			<maxima>9</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>		<dia>			<minima>-3</minima>
+			<maxima>6</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>		<dia>			<minima>-3</minima>
+			<maxima>4</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>		<dia>			<minima>-4</minima>
+			<maxima>2</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>1415</id>
+		<nombre>Burgos</nombre>
+		<latitud>42.340870</latitud>
+		<longitud>-3.699731</longitud>
+		<zoom>6</zoom>
+		<provincia>Burgos</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>5</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos cubiertos con nevadas</tiempo>
+</dia>		<dia>			<minima>-2</minima>
+			<maxima>6</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>-2</minima>
+			<maxima>6</maxima>
+			<tiempo>Intervalos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>-2</minima>
+			<maxima>4</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>3741</id>
+		<nombre>Leon</nombre>
+		<latitud>42.599880</latitud>
+		<longitud>-5.571752</longitud>
+		<zoom>6</zoom>
+		<provincia>Le?n</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>4</minima>
+			<maxima>12</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>-1</minima>
+			<maxima>8</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>-2</minima>
+			<maxima>6</maxima>
+			<tiempo>Intervalos Nubosos</tiempo>
+</dia>		<dia>			<minima>-1</minima>
+			<maxima>5</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>5152</id>
+		<nombre>Palencia</nombre>
+		<latitud>42.012459</latitud>
+		<longitud>-4.531175</longitud>
+		<zoom>6</zoom>
+		<provincia>Palencia</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>6</minima>
+			<maxima>12</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>2</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>-1</minima>
+			<maxima>8</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>-1</minima>
+			<maxima>7</maxima>
+			<tiempo>Intervalos Nubosos</tiempo>
+</dia>		<dia>			<minima>-1</minima>
+			<maxima>5</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>5754</id>
+		<nombre>Salamanca</nombre>
+		<latitud>40.964970</latitud>
+		<longitud>-5.663047</longitud>
+		<zoom>6</zoom>
+		<provincia>Salamanca</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>8</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>-1</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>-1</minima>
+			<maxima>8</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>-1</minima>
+			<maxima>7</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>-1</minima>
+			<maxima>5</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>5762</id>
+		<nombre>Segovia</nombre>
+		<latitud>40.949429</latitud>
+		<longitud>-4.119209</longitud>
+		<zoom>6</zoom>
+		<provincia>Segovia</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>6</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos cubiertos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>-1</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos cubiertos con nevadas</tiempo>
+</dia>		<dia>			<minima>-3</minima>
+			<maxima>6</maxima>
+			<tiempo>Cielos cubiertos con nevadas</tiempo>
+</dia>		<dia>			<minima>-2</minima>
+			<maxima>4</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>		<dia>			<minima>-2</minima>
+			<maxima>2</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>6326</id>
+		<nombre>Soria</nombre>
+		<latitud>41.763599</latitud>
+		<longitud>-2.464921</longitud>
+		<zoom>6</zoom>
+		<provincia>Soria</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>4</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>0</minima>
+			<maxima>9</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>		<dia>			<minima>-1</minima>
+			<maxima>5</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>		<dia>			<minima>-3</minima>
+			<maxima>6</maxima>
+			<tiempo>Intervalos Nubosos</tiempo>
+</dia>		<dia>			<minima>-5</minima>
+			<maxima>4</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>7055</id>
+		<nombre>Zamora</nombre>
+		<latitud>41.503681</latitud>
+		<longitud>-5.743778</longitud>
+		<zoom>6</zoom>
+		<provincia>Zamora</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>9</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>0</minima>
+			<maxima>12</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>-1</minima>
+			<maxima>8</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>0</minima>
+			<maxima>8</maxima>
+			<tiempo>Intervalos Nubosos</tiempo>
+</dia>		<dia>			<minima>0</minima>
+			<maxima>6</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>2584</id>
+		<nombre>Gerona</nombre>
+		<latitud>41.981800</latitud>
+		<longitud>2.823700</longitud>
+		<zoom>6</zoom>
+		<provincia>Gerona</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>1</minima>
+			<maxima>15</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>9</minima>
+			<maxima>16</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>2</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>2</minima>
+			<maxima>14</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>0</minima>
+			<maxima>14</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>3776</id>
+		<nombre>Lerida</nombre>
+		<latitud>41.614151</latitud>
+		<longitud>0.625782</longitud>
+		<zoom>6</zoom>
+		<provincia>L?rida</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>2</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>6</minima>
+			<maxima>14</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>12</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>2</minima>
+			<maxima>12</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>-2</minima>
+			<maxima>9</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>6512</id>
+		<nombre>Tarragona</nombre>
+		<latitud>41.118660</latitud>
+		<longitud>1.245330</longitud>
+		<zoom>6</zoom>
+		<provincia>Tarragona</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>4</minima>
+			<maxima>14</maxima>
+			<tiempo>Cielos Cubiertos</tiempo>
+</dia>		<dia>			<minima>8</minima>
+			<maxima>14</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>5</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>4</minima>
+			<maxima>13</maxima>
+			<tiempo>Despejado</tiempo>
+</dia>		<dia>			<minima>4</minima>
+			<maxima>12</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>8099</id>
+		<nombre>Ceuta</nombre>
+		<latitud>35.888290</latitud>
+		<longitud>-5.316195</longitud>
+		<zoom>6</zoom>
+		<provincia>Ceuta</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>14</minima>
+			<maxima>17</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>12</minima>
+			<maxima>17</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>11</minima>
+			<maxima>16</maxima>
+			<tiempo>Intervalos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>12</minima>
+			<maxima>16</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>10</minima>
+			<maxima>15</maxima>
+			<tiempo>Intervalos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>8100</id>
+		<nombre>Melilla</nombre>
+		<latitud>35.292339</latitud>
+		<longitud>-2.938794</longitud>
+		<zoom>6</zoom>
+		<provincia>Melilla</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>13</minima>
+			<maxima>20</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>13</minima>
+			<maxima>20</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>12</minima>
+			<maxima>15</maxima>
+			<tiempo>Intervalos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>12</minima>
+			<maxima>17</maxima>
+			<tiempo>Intervalos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>11</minima>
+			<maxima>15</maxima>
+			<tiempo>Intervalos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>1067</id>
+		<nombre>Badajoz</nombre>
+		<latitud>38.878601</latitud>
+		<longitud>-6.970284</longitud>
+		<zoom>6</zoom>
+		<provincia>Badajoz</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>12</minima>
+			<maxima>17</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>5</minima>
+			<maxima>15</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>3</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>2</minima>
+			<maxima>13</maxima>
+			<tiempo>Intervalos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>0</minima>
+			<maxima>12</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>1801</id>
+		<nombre>Caceres</nombre>
+		<latitud>39.476181</latitud>
+		<longitud>-6.370760</longitud>
+		<zoom>6</zoom>
+		<provincia>C?ceres</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>10</minima>
+			<maxima>14</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>2</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>10</maxima>
+			<tiempo>Despejado</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>9</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>4275</id>
+		<nombre>Lugo</nombre>
+		<latitud>43.012081</latitud>
+		<longitud>-7.555851</longitud>
+		<zoom>6</zoom>
+		<provincia>Lugo</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>8</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>3</minima>
+			<maxima>12</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>9</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>2</minima>
+			<maxima>8</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>1</minima>
+			<maxima>6</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>5021</id>
+		<nombre>Orense</nombre>
+		<latitud>42.340012</latitud>
+		<longitud>-7.864641</longitud>
+		<zoom>6</zoom>
+		<provincia>Orense</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>13</minima>
+			<maxima>15</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>4</minima>
+			<maxima>14</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>4</minima>
+			<maxima>12</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>5</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>3</minima>
+			<maxima>9</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>5250</id>
+		<nombre>Pontevedra</nombre>
+		<latitud>42.433620</latitud>
+		<longitud>-8.648053</longitud>
+		<zoom>6</zoom>
+		<provincia>Pontevedra</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>13</minima>
+			<maxima>15</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>8</minima>
+			<maxima>14</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>9</minima>
+			<maxima>13</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>8</minima>
+			<maxima>12</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>7</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>200</id>
+		<nombre>Vitoria</nombre>
+		<latitud>42.846409</latitud>
+		<longitud>-2.667893</longitud>
+		<zoom>6</zoom>
+		<provincia>?lava</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>7</minima>
+			<maxima>15</maxima>
+			<tiempo>Cielos cubiertos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>3</minima>
+			<maxima>14</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>3</minima>
+			<maxima>8</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>-1</minima>
+			<maxima>6</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>0</minima>
+			<maxima>7</maxima>
+			<tiempo>Cielos nubosos con nevadas</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>3921</id>
+		<nombre>San Sebastian</nombre>
+		<latitud>43.320740</latitud>
+		<longitud>-1.984421</longitud>
+		<zoom>6</zoom>
+		<provincia>Guip?zcoa</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>7</minima>
+			<maxima>15</maxima>
+			<tiempo>Cielos cubiertos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>7</minima>
+			<maxima>16</maxima>
+			<tiempo>Cielos cubiertos con chubascos tormentosos</tiempo>
+</dia>		<dia>			<minima>7</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos nubosos con lluvia moderada</tiempo>
+</dia>		<dia>			<minima>6</minima>
+			<maxima>11</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>2</minima>
+			<maxima>10</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>2663</id>
+		<nombre>Castellon de la Plana</nombre>
+		<latitud>39.985981</latitud>
+		<longitud>-0.037671</longitud>
+		<zoom>6</zoom>
+		<provincia>Castell?n</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>10</minima>
+			<maxima>21</maxima>
+			<tiempo>Cielos Cubiertos</tiempo>
+</dia>		<dia>			<minima>10</minima>
+			<maxima>18</maxima>
+			<tiempo>Cielos cubiertos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>8</minima>
+			<maxima>16</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>5</minima>
+			<maxima>16</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>3</minima>
+			<maxima>15</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>	</localidad>
+	<localidad>
+	<error>no</error>
+		<id>612</id>
+		<nombre>Alicante</nombre>
+		<latitud>38.345200</latitud>
+		<longitud>-0.481006</longitud>
+		<zoom>6</zoom>
+		<provincia>Alicante</provincia>
+		<pais>Espa?a</pais>
+		<continente>Europa</continente>
+		<dia>			<minima>10</minima>
+			<maxima>23</maxima>
+			<tiempo>Cielos Cubiertos</tiempo>
+</dia>		<dia>			<minima>10</minima>
+			<maxima>18</maxima>
+			<tiempo>Cielos nubosos con lluvia debil</tiempo>
+</dia>		<dia>			<minima>8</minima>
+			<maxima>16</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>6</minima>
+			<maxima>18</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>		<dia>			<minima>3</minima>
+			<maxima>16</maxima>
+			<tiempo>Cielos Nubosos</tiempo>
+</dia>	</localidad>
+</respuesta>
